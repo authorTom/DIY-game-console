@@ -9,7 +9,7 @@ Why am I doing this, you might ask? Well, it's not just about the end product fo
 <br>
 Along the way, I'll be exploring everything from selecting the right components to integrating software that can bring my console to life. I'll document my successes, my inevitable stumbles, and everything in between. <br>
 ## 1.0 Requirements and Specifications
-I have outlined some requirements and specifications. The brief is to be compact, quiet, power-efficient, and ergonomically designed. Providing a high-quality gaming experience while fitting seamlessly into a user's living room environment. <br>
+I have outlined some requirements and specifications. The brief is to be compact, quiet, power-efficient, and ergonomically designed. Providing a high-quality gaming experience while fitting seamlessly into a user's living room. <br>
 ### 1.1 Power
 ### 1.2 Storage and Performance
 ### 1.3 Weight and Dimensions
