@@ -18,3 +18,5 @@ I have outlined some requirements and specifications. The brief is to be compact
 ### 1.6 Ergonomic Design
 ### 1.7 Connectivity
 ### 1.8 Other
+## 2.0 Hardware
+## 3.0 Operating System & Software
